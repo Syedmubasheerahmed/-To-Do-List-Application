@@ -1,2 +1,2 @@
 # -To-Do-List-Application
-A simple To-Do List Application helps users manage daily tasks by allowing them to add, view, and remove tasks using Python
+This is a simple command-line To-Do List application written in Python. It allows users to add, display, remove, and mark tasks as completed. 
